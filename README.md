@@ -8,7 +8,7 @@ ini adalah tampilannya
 
 ### Menambahkan judul
 ini adalah hasil dari menambakan judul yang menggunakan
-heading <h1> sampai <h6>
+heading (h1 sampai h6)
 ![Gambar2](screenshot/ss3.png)
 
 ### Memformat Teks
@@ -23,6 +23,6 @@ ini adalah hasil dari <img src="logo upb.png" width="150" title="Logo Universita
 
 ### Hasil dari Pratikum
 ini adalah Hasil dari pratikum HTML saya
-![gambar7](screenshot/hsl.png)
+![gambar6](screenshot/hsl.png)
 
 
