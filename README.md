@@ -15,14 +15,13 @@ heading (h1 sampai h6)
 ini adalah hasil dari uji coba menggunakan 
 format align="right,left dan center" <b> bolt, <i> italic, dan lain-lain
 ![Gambar3](screenshot/ss1.png) 
-![Gambar4](screenshot/ss4.png)
 
 ### Menyisipkan Gambar
 ini adalah hasil dari <img src="logo upb.png" width="150" title="Logo Universitas Pelita Bangsa">
-![Gambar5](screenshot/ss6)
+![Gambar4](screenshot/ss6)
 
 ### Hasil dari Pratikum
 ini adalah Hasil dari pratikum HTML saya
-![gambar6](screenshot/hsl.png)
+![gambar5](screenshot/hsl.png)
 
 
