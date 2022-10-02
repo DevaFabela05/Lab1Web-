@@ -2,7 +2,7 @@
 ## Belajar Tag Dasar HTML
 
 ### Langkah-langkah Membuat Paragraf
-hsail code tag untuk pratikum dan membuat paragraf adalah <p>
+hasil code tag untuk pratikum dan membuat paragraf adalah <p>
 ini adalah tampilannya
 ![Gambar1](screenshot/ssc.png)
 
@@ -22,7 +22,6 @@ ini adalah hasil dari <img src="logo upb.png" width="150" title="Logo Universita
 Menambahkan hyperlink
 <a href="lab1_tag_dasar.html">Dasar HTML</a> adalah code untuk menambahkan hyperlink 
 ![Gambar6](screenshot/ss2.png)
-
 
 Hasil dari Pratikum
 ini adalah Hasil dari pratikum HTML saya
